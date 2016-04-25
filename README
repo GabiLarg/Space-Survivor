@@ -1,0 +1,26 @@
+//Space Survivor V0.1 by Gabriela Pereira de Assis
+//Platform: Windows x86
+//Best fit: 1280x720
+
+## How to Play ##
+
+Use WASD to move the spaceship and the mouse left button to shot.
+
+## Rules ##
+
+Each enemy dead by the shot is added 100 in the score. 
+Each hit the player receives from the enemy is subtracted 50 in the score.
+Each shot has 1 of demage.
+The player starts with 10 health points.
+Each 1000 points scored is added 2 health points.
+The game starts with 40 seconds that is decreased.
+Each enemy dead is added 3 seconds.
+Each hit the player receives or each enemy that the player doesn't kill is subtracted 3 seconds.
+The game ends when the player dies or the tme ends.
+
+## References ##
+
+http://pixelnest.io/tutorials/2d-game-unity/ (most helpful to me to understand how Unity works)
+http://jogosindie.com/tutorial-de-unity-2d-conhecendo-a-engine/ (in portuguese)
+I also used the http://answers.unity3d.com/, http://stackoverflow.com/ and http://docs.unity3d.com/ScriptReference/ for some trouble :)
+

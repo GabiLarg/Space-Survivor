@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 16f007a4f624fbb4ea1db4c5947d88ea
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - ScoreText: {instanceID: 0}
+  - GameOverText: {instanceID: 0}
+  - TimeCount: {instanceID: 0}
+  - HpText: {instanceID: 0}
+  - mute: {fileID: 21300000, guid: bd835d1c0f85b24468bb2507a5f5c4fb, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
